@@ -1,0 +1,130 @@
+{
+    "Popular": [
+        {
+            "id": 1,
+            "title": "Opor Ayam",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXunwHJTgyy_D40v8eXkV4-H_NsoK7q3uBZQ&usqp=CAU",
+            "bahan": [
+                "500 gr Ayam, potong2",
+                "1 ruas Lengkuas, geprek",
+                "1 btg Serai, geprek",
+                "3 lbr Daun salam",
+                "4 lbr Daun jeruk",
+                "4 bks Santan kental uk. 65gr",
+                "800 ml Air",
+                "Secukupnya garam, gula, merica, dan kaldu bubuk",
+                "Secukupnya bawang goreng untuk taburan"
+            ],
+            "desc": [
+                "1 Cuci bersih ayam dan potong sesuai selera, lalu rebus sampai setengah matang, angkat, tiriskan, buang airnya.",
+                "2 Haluskan bumbu halus menggunakan blender, lalu tumis dengan sedikit minyak, tambahkan serai, lengkuas, daun salam dan daun jeruk, tumis sampai harum dan matang.",
+                "3 Masukan ayam kedalam tumisan bumbu, lalu aduk-aduk sampai rata, tambahkan air. Tunggu sampai mendidih.",
+                "4 Setelah mendidih tambahkan gula, garam, kaldu bubuk dan santan kental, lalu koreksi rasa dan masak hingga ayam matang.",
+                "5 Setelah dirasa pas, angkat dan sajikan dengan taburan bawang goreng"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Ayam kecap",
+            "image": "https://kulinerkota.com/wp-content/uploads/2020/07/Ayam-Kecap.jpeg",
+            "bahan": [
+                "1 ekor ayam, potong 12 bagian",
+                "1 sendok teh air jeruk nipis",
+                "1 sendok teh garam",
+                "1 sendok teh gula pasir",
+                "1/4 sendok teh merica bubuk",
+                "3 siung bawang putih, memarkan lalu iris tipis",
+                "2 siung bawang merah, iris tipis",
+                "1/2 buah bawang bombay, iris memanjang",
+                "2 siung daun bawang atau daun kucai",
+                "1 potong jahe seukuran ibu jari, kupas kulitnya dan memarkan",
+                "3 sendok makan kecap manis",
+                "1 sendok makan saus tomat",
+                "1/2 sendok makan kecap asin",
+                "200 mililiter air",
+                "minyak goreng secukupnya untuk menggoreng dan menumis"
+            ],
+            "desc": [
+                "1 Lumuri ayam dengan air jeruk nipis dan sesendok teh garam hingga merata, lalu diamkan selama 15 menit.",
+                "2 Panaskan minyak goreng secukupnya. Goreng ayam hingga mulai matang, tiriskan.",
+                "3 Tumis bawang merah dan bawang putih sampai harum, masukkan bawang bombay dan jahe. Tumis kembali hingga harum dan kecokelatan.",
+                "4 Masukkan kecap manis, saus tomat, kecap asin, merica bubuk, dan gula pasir.",
+                "5 Selanjutnya tuang air dan tumis beberapa saat. Masukkan daun kucai, tumis kembali beberapa saat.",
+                "6 Terakhir, masukkan ayam goreng ke dalam bumbu kecap. Tumis hingga bumbu meresap dan perlahan-lahan terkaramelisasi."
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Daging Asap",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifBAApk-jrxFnPY3Woha5Cf1EREVElJn_Hg&usqp=CAU",
+            "bahan": [
+                "daging sapi",
+                "2 sdm margarin",
+                "1/2 buah bawang bombai, cincang",
+                "2 siung bawang merah, iris tipis",
+                "1 buah tomat cincang",
+                "Garam dan merica bubuk secukupnya",
+                "250 g daging asap, potong sesuai selera",
+                "1/2 sdt jinten bubuk",
+                "Seujung sendok kunyit bubuk",
+                "1 gelas beras",
+                "2 gelas kaldu sapi (bisa dengan air dan kaldu instant)"
+            ],
+            "desc": [
+                "1 Iris tipis bawang merah dan bawang bombay, cabe rawit, cabe kriting merah.",
+                "2 Cincang halus bawang putih",
+                "3 Potong dadu daging",
+                "4 Panaskan minyak, dan masukkan bumbu iris, tumis sampai harum. Setelahnya masukkan daging dan ungkep daging hingga empuk.",
+                "5 Setelah empuk masukkan saos tiram, gula pasir, garam, merica dan kecap.",
+                "6 Aduk rata, tunggu sebentar, dan matikan kompor. Tumis daging asap pedas siap disajikan"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Soto Betawi",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UgpHdqnPMfs7N0iLkG-v8yhdVMVdTC38KQ&usqp=CAU",
+            "bahan": [
+                " 250 gram daging sengkel",
+                "150 gram babat",
+                "4 lembar daun salam",
+                " 250 gram daging kikil",
+                "1 ruas lengkuas, digeprek",
+                "1 batang kayu manis",
+                "garam dan gula secukupnya",
+                "2 batang serai",
+                " 6 buah cengkeh"
+            ],
+            "desc": [
+                "1  Rebus sengkel, babat, dan kikil selama 1 jam",
+                "2 Tumis bumbu halus, beri cengkeh, daun salam, serai, lengkuas, dan kayu manis",
+                "3 Masukkan bumbu halus ke rebusan daging",
+                "4 Tuang santan dan susu. Beri potongan kentang rebus",
+                "5  Beri gula dan garam secukupnya. Masak sambil terus diaduk hingga bumbu meresap."
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Rawon Jawa",
+            "image": "http://www.panduanibu.com/userfiles/uploads/resep-masakan-rawon-khas-jawa-timur.png",
+            "bahan": [
+                "500 gram daging sandung lamur sapi",
+                "3 lembar daun jeruk purut segar",
+                "1 sdm air asam jawa",
+                "3 bungkus Royco Kaldu Sapi",
+                "5 sdm minyak goreng",
+                "1 dengkul sapi, belah dua",
+                "1 batang serai, memarkan",
+                "2 batang daun bawang, iris seukuran 1 cm",
+                "3 liter air"
+            ],
+            "desc": [
+                "1 Rebus daging dan dengkul sapi hingga setengah lunak. Potong daging sesuai selera. Sisihkan.",
+                "2 Masukkan Royco Kaldu Sapi ke dalam air rebusan daging.",
+                "3 Tumis bumbu halus, lengkuas, daun jeruk, dan serai hingga harum dan matang.",
+                "4 Masukkan potongan daging ke dalam tumisan, masak hingga bumbu meresap.",
+                "5 Masukkan tumisan daging ke dalam kuah kaldu. Masak dengan api kecil hingga daging empuk.",
+                "6 Sajikan hangat beserta pelengkap."
+            ]
+        }
+    ]
+}
